@@ -1,2 +1,2 @@
 # Kmer
-Using Kmer in neural networks for ITS classification
+Using Kmers on the fungal ITS sequences for classification
